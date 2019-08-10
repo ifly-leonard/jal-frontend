@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>JAL Virtual | Powered by iCrew&#8482;</title>
+
+  <meta charset="utf-8">
+  <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="JAL Virtual is a modern age virtual airline built on top of industry leading technology. We are proudly powered by iCrew&trade;">
+
+  <!-- Google Fonts -->
+  <link href='https://fonts.googleapis.com/css?family=Roboto:400,400i,500,700' rel='stylesheet'>
+
+  <!-- Css -->
+  <link rel="stylesheet" href="css/bootstrap.min.css" />
+  <link rel="stylesheet" href="css/font-icons.css" />
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+  <link rel="stylesheet" href="css/style.css" />
+
+  <!-- Favicons -->
+  <link rel="shortcut icon" href="img/favicon.ico">
+  <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
+<style>
+  .hero-image {
+  background-image: url("japan-airlines-airbus-a350-900-JALDOM0619.jpg");
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+.loader {
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  width: 120px;
+  height: 120px;
+  -webkit-animation:https://cdn.dribbble.com/users/221835/screenshots/3938874/dribbble.gif
+  animation: spin 5s https://cdn.dribbble.com/users/221835/screenshots/3938874/dribbble.gif
+}
+
+</style>
+</head>
+<body>
+
+  <section class="video-hero" id="home" style="height: 900px; background-image: url('https://i.redd.it/siaxwslm6ix01.png');  background-size:cover; background-position: left; background-attachment:fixed;" data-section="home">
+    <div class="overlay"> <dropdown-icon></div>
+
+      <div class="display-t text-center">
+        <div class="display-tc">
+          <div class="container">
+            <div class="col-md-12 col-md-offset-0">
+              <div class="animate-box fadeInUp animated-fast">
+                <a class="tfs-scroll-down-indicator fusion-one-page-text-link" href="#main" style="opacity: 1; color: rgb(255, 255, 255); padding-bottom: 0px; display: block;"></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+
+  <!-- Preloader -->
+  <!-- <div class="loader-mask">
+    <div class="loader">
+      "Loading..."
+    </div>
+  </div> -->
+
+  <main class="main-wrapper">
+
+    <!-- Navigation -->
+    <header class="nav">
+      <div class="nav__holder nav--sticky">
+        <div class="container-fluid container-semi-fluid nav__container">
+          <div class="flex-parent">
+
+            <div class="nav__header">
+              <!-- Logo -->
+              <a href="index.html" class="logo-container flex-child">
+                <img  src="http://jalvirtual.com/en/lib/skins/jal2014/images/logo.png"  alt="logo">
+              </a>
+
+              <!-- Mobile toggle -->
+              <button type="button" class="nav__icon-toggle" id="nav__icon-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="nav__icon-toggle-bar"></span>
+                <span class="nav__icon-toggle-bar"></span>
+                <span class="nav__icon-toggle-bar"></span>
+              </button>
+            </div>
+
+            <!-- Navbar -->
+
+            <nav id="navbar-collapse" class="nav__wrap collapse navbar-collapse">
+              <ul class="nav__menu">
+                <li class="active">
+                  <a href="index.html">Home</a>
+                </li>
+                <li class="active">
+                  <a href="about.html">About</a>
+                </li>
+               <li class="active">
+                  <a href="contact.html">Contact</a>
+                </li>
+              </ul> <!-- end menu -->
+            </nav> <!-- end nav-wrap -->
+
+            <div class="nav__btn-holder nav--align-right">
+              <a href="#" class="btn nav__btn">
+                <span <button>Crew login</button></span>
+
+              </a>
+            </div>
+
+          </div> <!-- end flex-parent -->
+        </div> <!-- end container -->
+
+      </div>
+    </header> <!-- end navigation -->
+
+
+      <g>
+        <path class="st0" d="M232.16,108.54,76.5,357.6C43.2,410.88,81.5,480,144.34,480H455.66c62.83,0,101.14-69.12,67.84-122.4L367.84,108.54C336.51,58.41,263.49,58.41,232.16,108.54Z" fill="url(#img1)" />
+        <path class="st0" d="M232.16,108.54,76.5,357.6C43.2,410.88,81.5,480,144.34,480H455.66c62.83,0,101.14-69.12,67.84-122.4L367.84,108.54C336.51,58.41,263.49,58.41,232.16,108.54Z" fill="url(#triangle-gradient)" fill-opacity="0.7" />
+      </g>
+      <defs>
+        <pattern id="img1" patternUnits="userSpaceOnUse" width="500" height="500">
+          <image xlink:href="img/hero/hero.jpg" x="50" y="70" width="500" height="500"></image>
+        </pattern>
+
+        <linearGradient id="triangle-gradient" y2="100%" x2="0" y1="50%" gradientUnits="userSpaceOnUse" >
+        <stop offset="0" stop-color="#4C86E7"/>
+        <stop offset="1" stop-color="#B939E5"/>
+        </linearGradient>
+      </defs>
+    </svg>
+
+
+    <div class="content-wrapper oh">
+      <div id="example1">
+
+
+      <!-- Hero -->
+      <section class="hero">
+        <div class="hero-image">
+
+         <div class="container">
+          <div class="row">
+            <div class="col-lg-10 >
+              <div class="hero__text-holder">
+                <h1 class="hero__title hero__title--boxed">Created to Generate more Pilots.</h1>
+                <h2 class="hero__subtitle">Focus on engaging, To train the Pilots to fly around the world. &nbsp&nbsp&nbsp <img src="https://cdn.dribbble.com/users/1068771/screenshots/6520292/pilot_with_back_s_2x.jpg" width="500" height="900"></h2>
+
+
+              </div>
+            </div>
+          </div>
+
+          <div class="row justify-content-center">
+            <div class="col-lg-14">
+              <br>
+                  <br>
+                  <br>
+              <!-- Optin Form -->
+              <div class="optin">
+                <h3 class="optin__title">Get the free checklist of Aircrafts, so u dont make mistakes  </h3>
+                <form class="optin__form">
+                  <div class="optin__form-group form-group">
+
+
+                    <input type="text" class="form-input optin__input" id="optin-name" required>
+                    <label for="optin-name" class="optin__label">Your name</label>
+                    <span class="input-underline"></span>
+                  </div>
+                  <div class="optin__form-group form-group">
+                    <input type="email" class="form-input optin__input" id="optin-email" required>
+                    <label for="optin-email" class="optin__label">Your e-mail address</label>
+                    <span class="input-underline"></span>
+                  </div>
+
+                  <button class="optin__btn btn btn--md btn--color btn--button">Download Free</button>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+      </section> <!-- end hero -->
+
+      <!-- Service Boxes -->
+      <section class="section-wrap pb-72 pb-lg-40">
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-lg-7">
+              <div class="title-row">
+                <h2 class="section-title text-center">
+                  Do you want to acquire <span class="highlight"> more traffic</span> on your flying ? We know the solution.
+                </h2>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-5">
+              <div class="feature box-shadow hover-up hover-line">
+                <svg class="feature__icon"><use xlink:href="img/icons/orion-svg-sprite.svg#medical-research-1"></use></svg>
+                <a href="https://www.ivao.aero/"><h4 class="feature__title">IVAO</h4>
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/IVAO_Logo.png/768px-IVAO_Logo.png" width="250" height="150">
+                <p class="feature__text">We also provide online ATC , so you can fly as real as an airline pilot .</p></a>
+              </div>
+            </div>
+            <div class="col-lg-5">
+              <div class="feature box-shadow hover-up hover-line">
+                <svg class="feature__icon"><use xlink:href="img/icons/orion-svg-sprite.svg#edit-document-1"></use></svg>
+
+                <a href="https://www.vatsim.net/"><h4 class="feature__title">VATSIM</h4>
+                  <img src="https://www.avsim.com/files/forum/monthly_09_2018/vatsim-official-2010_0480_r.png.e232403e2c49f3473ce4842081fa0df9.png" height="250">
+                <p class="feature__text">VATSIM is the Virtual Air Traffic Simulation network, connecting people from around the world flying online or acting as virtual Air Traffic Controllers..</p></a>
+              </div>
+            </div>
+
+            </div>
+          </div>
+        </div>
+      </section> <!-- end service boxes -->
+
+
+
+
+          <g>
+            <path class="st0" d="M232.16,108.54,76.5,357.6C43.2,410.88,81.5,480,144.34,480H455.66c62.83,0,101.14-69.12,67.84-122.4L367.84,108.54C336.51,58.41,263.49,58.41,232.16,108.54Z" fill="url(#img2)" />
+          </g>
+          <defs>
+            <pattern id="img2" patternUnits="userSpaceOnUse" width="600" height="600">
+              <image xlink:href="img/promo/promo_img_1.jpg" width="600" height="600"></image>
+            </pattern>
+          </defs>
+        </svg>
+
+        <div class="container">
+          <div class="row justify-content-end">
+            <div class="col-lg-10">
+              <h2 class="promo-section__title promo-section__title--boxed">Welcome to Japan Airlines Virtual</h2>
+              <p class="promo-section__text lead">Welcome to Japan Airlines Virtual, Virtually Skyward! Our extensive real-operations allows you to feel as a real pilot with Japan Airlines. We began operations in 2007 and we have been growing since then. We operate from four hubs: Tokyo Narita (NRT/RJAA), Tokyo Haneda (HND/RJTT), Osaka Kansai (KIX/RJBB), and Osaka Itami (ITM/RJOO). We operate many different aircraft types going from small Dash 8's and CRJ-200's to large Boeing 787's and 777's. We simulate the operations of Japan Airlines, and its subsidiarie airlines. On top of all we allow flying all codeshare JAL flights. That gives you numerous possibilities of different flights with different aircraft types. We fly on the VATSIM and IVAO networks.</p>
+              <a href="#" class="btn btn--lg btn--color btn--icon">
+                <span>Get Started</span>
+
+              </a>
+            </div>
+          </div>
+        </div>
+        <br>
+        <br>
+      </section> <!-- end promo section -->
+
+
+      <!-- Testimonials -->
+      <section class="section-wrap bg-color">
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-lg-10">
+              <div class="title-row">
+                <h2 class="section-title">Satisfied Pilots</h2>
+                <p class="subtitle">Those who already tried it.</p>
+              </div>
+
+              <div id="owl-testimonials" class="owl-carousel owl-theme owl-carousel--arrows-outside">
+
+                <div class="testimonial clearfix">
+                  <img src="img/testimonials/1.png" alt="" class="testimonial__img">
+                  <div class="testimonial__info">
+                    <span class="testimonial__author">Captain Leonard selvaraj</span>
+                    <span class="testimonial__company">icrew systems</span>
+                  </div>
+                  <div class="testimonial__body">
+                    <p class="testimonial__text">“I have witnessed and admired the work for years. I highly recommend this VA for anyone seeking to increase their flying experience.”</p>
+                    <div class="testimonial__rating">
+                      <i class="ui-star"></i>
+                      <i class="ui-star"></i>
+                      <i class="ui-star"></i>
+                      <i class="ui-star"></i>
+                      <i class="ui-star"></i>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="testimonial clearfix">
+                  <img src="img/testimonials/2.png" alt="" class="testimonial__img">
+                  <div class="testimonial__info">
+                    <span class="testimonial__author">Captain Bharath</span>
+                    <span class="testimonial__company">icrew systems</span>
+                  </div>
+                  <div class="testimonial__body">
+                    <p class="testimonial__text">“Every detail has been taken care these team are realy amazing and talented!.”</p>
+                    <div class="testimonial__rating">
+                      <i class="ui-star"></i>
+                      <i class="ui-star"></i>
+                      <i class="ui-star"></i>
+                      <i class="ui-star"></i>
+                      <i class="ui-star"></i>
+                    </div>
+                  </div>
+                </div>
+
+
+
+              </div> <!-- end owl-carousel -->
+            </div>
+          </div>
+        </div>
+      </section> <!-- end testimonials -->
+
+      <!-- From Blog -->
+      <section class="section-wrap">
+        <div class="container">
+          <div class="title-row title-row--boxed text-center">
+            <h2 class="section-title">Latest News</h2>
+            <p class="subtitle">Here are the best features that makes evryone to inspire, fast and user-friendly platform.</p>
+          </div>
+
+
+
+
+
+
+
+      <!-- CTA -->
+      <div class="container offset-top-152 pt-sm-48">
+        <div class="row justify-content-center">
+          <div class="col-lg-10">
+            <div class="call-to-action box-shadow-large text-center">
+              <div class="call-to-action__container">
+                <h3 class="call-to-action__title">
+                  Take your <highlight> FLYING </highlight> to the next level
+                </h3>
+                <a href="#" class="btn btn--lg btn--color">
+                  <span>LET'S FLY</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div> <!-- end cta -->
+
+      <!-- Footer -->
+      <footer class="footer">
+        <div class="container">
+          <div class="footer__widgets">
+            <div class="row">
+
+              <div class="col-lg-3 col-md-6">
+                <div class="widget widget-about-us">
+                  <!-- Logo -->
+                  <a href="index.html" class="logo-container flex-child">
+                <img  src="http://jalvirtual.com/en/lib/skins/jal2014/images/logo.png"  alt="logo">
+              </a>
+              <br>
+              <br>
+              <br>
+                  <div class="socials">
+                    <a href="#" class="social social-twitter" aria-label="twitter" title="twitter" target="_blank"><i class="ui-twitter"></i></a>
+                    <a href="#" class="social social-facebook" aria-label="facebook" title="facebook" target="_blank"><i class="ui-facebook"></i></a>
+                    <a href="#" class="social social-google-plus" aria-label="google plus" title="google plus" target="_blank"><i class="ui-google"></i></a>
+                  </div>
+                </div>
+              </div> <!-- end about us -->
+              <img src="https://cdn.dribbble.com/users/330915/screenshots/6170423/1_travel_anim.gif" width="300" height="300">
+
+
+
+
+
+                <div class="col-lg-2 col-md-6">
+                <div class="widget widget-address">
+                  <h5 class="widget-title">Company</h5>
+                  <ul>
+                    <li><address>2-4-11 Higashi-Shinagawa, Shinagawa-ku, Tokyo</address></li>
+                    <li>
+                      <span>Phone: </span>
+                      <a href="tel:1800 102 4135">1800 102 4135</a>
+                    </li>
+                    <li>
+                      <span>Email: </span>
+                      <a href="mailto:admin@jalvirtual.com">admin@jalvirtual.com</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              </div>
+
+            </div>
+          </div>
+        </div> <!-- end container -->
+
+        <div class="footer__bottom top-divider">
+          <div class="container text-center">
+            <span class="copyright">
+              &copy; 2019 JAL Vitual, Made by icrew systems&#8482
+            </span>
+          </div>
+        </div> <!-- end footer bottom -->
+      </footer> <!-- end footer -->
+
+      <div id="back-to-top">
+        <a href="#top"><i class="ui-arrow-up"></i></a>
+      </div>
+
+    </div> <!-- end content wrapper -->
+  </main> <!-- end main wrapper -->
+
+
+  <!-- jQuery Scripts -->
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/plugins.js"></script>
+  <script src="js/scripts.js"></script>
+
+  <!-- Cookies -->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+  <script src="js/cookies.js"></script>
+
+</body>
+</html>
