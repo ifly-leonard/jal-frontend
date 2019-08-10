@@ -32,7 +32,7 @@
             <div class="col-lg-5 offset-lg-1">
               <div class="hero__text-holder">
                 <img src="http://2.bp.blogspot.com/-Mabwezf-WM4/Td9fcPkw6lI/AAAAAAAABdQ/av4FW_fFGUI/s1600/Screen%2Bshot%2B2011-05-27%2Bat%2B1.21.56%2BAM.png">
-                <h1 class="hero__title hero__title--boxed">Marketing That Generate Results.</h1>
+                <h1 class="hero__title hero__title--boxed">We are Japan's most advanced Virtual Airline</h1>
                 <h2 class="hero__subtitle">
                   Focus on engaging, reusable content that decrease the cost per leads while helps you to increase profits margin.</h2>
 
