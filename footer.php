@@ -24,6 +24,9 @@
           <div class="col-lg-2 offset-lg-3 col-md-6">
             <div class="widget widget_nav_menu">
               <h5 class="widget-title">Resources</h5>
+               <ul>
+                <li>
+                  <a href="index.html">Home</a>
               <ul>
                 <li><a href="#">About</a></li>
                 

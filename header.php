@@ -61,38 +61,17 @@
             <nav id="navbar-collapse" class="nav__wrap collapse navbar-collapse">
               <ul class="nav__menu">
                 <li class="active">
-                  <a href="index.html">Home</a>
+                  <a href="index.php">Home</a>
                 </li>
-                <li class="nav__dropdown">
-                  <a href="#">Pages</a>
-                  <i class="ui-arrow-down nav__dropdown-trigger"></i>
-                  <ul class="nav__dropdown-menu">
+                <li class="nav__menu">
                     <li><a href="about.html">About</a></li>
-                    <li><a href="services.html">Services</a></li>
-                    <li><a href="pricing.html">Pricing</a></li>
-                    <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                    <li><a href="contact.html">Contact</a></li>
+                    
+                    <ul class="nav__menu">
+                <li class="active">
+                  <li><a href="contact.html">Contact</a></li>
                   </ul>
                 </li>
-                <li class="nav__dropdown">
-                  <a href="blog.html">Features</a>
-                  <i class="ui-arrow-down nav__dropdown-trigger"></i>
-                  <ul class="nav__dropdown-menu">
-                    <li><a href="icons.html">Icons</a></li>
-                    <li><a href="elements.html">Elements</a></li>
-                  </ul>
-                </li>
-                <li class="nav__dropdown">
-                  <a href="blog.html">Blog</a>
-                  <i class="ui-arrow-down nav__dropdown-trigger"></i>
-                  <ul class="nav__dropdown-menu">
-                    <li><a href="blog.html">Blog Posts</a></li>
-                    <li><a href="single-post.html">Single Post</a></li>
-                  </ul>
-                </li>
-                <li>
-                  <a href="#">Purchase</a>
-                </li>
+                
               </ul> <!-- end menu -->
             </nav> <!-- end nav-wrap -->
 
