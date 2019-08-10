@@ -105,8 +105,8 @@
         <div class="container">
           <div class="row justify-content-end">
             <div class="col-lg-6">
-              <h2 class="promo-section__title promo-section__title--boxed">Is your website driving sales for your business?</h2>
-              <p class="promo-section__text lead">As you may already know, there are an infinite number of things you can test on your site to help you increase sales. From layout to copy to design, there are limitless combinations of changes that may improve your visitor-to-sale conversion rate. But what's "enough" when you're just starting out? What elements should you focus on testing before rolling out your traffic campaign?</p>
+              <h2 class="promo-section__title promo-section__title--boxed">Welcome to Japan Airlines Virtual</h2>
+              <p class="promo-section__text lead">Welcome to Japan Airlines Virtual, Virtually Skyward! Our extensive real-operations allows you to feel as a real pilot with Japan Airlines. We began operations in 2007 and we have been growing since then. We operate from four hubs: Tokyo Narita (NRT/RJAA), Tokyo Haneda (HND/RJTT), Osaka Kansai (KIX/RJBB), and Osaka Itami (ITM/RJOO). We operate many different aircraft types going from small Dash 8's and CRJ-200's to large Boeing 787's and 777's. We simulate the operations of Japan Airlines, and its subsidiarie airlines. On top of all we allow flying all codeshare JAL flights. That gives you numerous possibilities of different flights with different aircraft types. We fly on the VATSIM and IVAO networks.</p>
               <a href="https://ivao.aero" target="_blank" class="btn btn--lg btn--color btn--icon">
                 <span>Get Started</span>
                 <i class="ui-arrow-right"></i>
