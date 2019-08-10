@@ -9,9 +9,9 @@
             <div class="widget widget-about-us">
               <!-- Logo -->
               <a href="index.html" class="logo-container flex-child">
-                <img class="logo" src="img/logo.png" srcset="img/logo.png 1x, img/logo@2x.png 2x" alt="logo">
+                <img class="logo" src="img/logo.png" srcset="http://jalvirtual.com/en/lib/skins/jal2014/images/logo.png" alt="logo">
               </a>
-              <p class="mt-24 mb-32">Tools to Effectively Build Your Brand and Grow Your Business.</p>
+              <br><br>
               <div class="socials">
                 <a href="#" class="social social-twitter" aria-label="twitter" title="twitter" target="_blank"><i class="ui-twitter"></i></a>
                 <a href="#" class="social social-facebook" aria-label="facebook" title="facebook" target="_blank"><i class="ui-facebook"></i></a>
@@ -26,39 +26,24 @@
               <h5 class="widget-title">Resources</h5>
               <ul>
                 <li><a href="#">About</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Pricing</a></li>
-                <li><a href="#">Blog</a></li>
+                
                 <li><a href="#">Contact</a></li>
               </ul>
             </div>
           </div>
 
-          <div class="col-lg-2 col-md-6">
-            <div class="widget widget_nav_menu">
-              <h5 class="widget-title">Solutions</h5>
-              <ul>
-                <li><a href="#">Marketing Strategy</a></li>
-                <li><a href="#">Advertising</a></li>
-                <li><a href="#">SMM</a></li>
-                <li><a href="#">SEO</a></li>
-                <li><a href="#">Google AdWords</a></li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-6">
+          <div class="col-lg-4 col-md-8">
             <div class="widget widget-address">
               <h5 class="widget-title">Company</h5>
               <ul>
-                <li><address>8910 University Center Lane Suite 620 San Diego, CA 92102</address></li>
+                <li><address>2-4-11 Higashi-Shinagawa, Shinagawa-ku, Tokyo</address></li>
                 <li>
                   <span>Phone: </span>
-                  <a href="tel:+1-800-1554-456-123">+ 1 (800) 155 4561</a>
+                  <a href="tel:tel:1800 102 4135">1800 102 4135</a>
                 </li>
                 <li>
                   <span>Email: </span>
-                  <a href="mailto:hi@margin.com">hi@margin.com</a>
+                  <a href="mailto:admin@jalvirtual.com">admin@jalvirtual.com</a>
                 </li>
               </ul>
             </div>
@@ -71,7 +56,7 @@
     <div class="footer__bottom top-divider">
       <div class="container text-center">
         <span class="copyright">
-          &copy; 2018 Margin, Made by <a href="https://deothemes.com">DeoThemes</a>
+          &copy; 2019 JAL Vitual, Made by icrew systems&#8482</a>
         </span>
       </div>
     </div> <!-- end footer bottom -->

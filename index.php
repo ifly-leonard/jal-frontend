@@ -108,7 +108,7 @@
               <h2 class="promo-section__title promo-section__title--boxed">Welcome to Japan Airlines Virtual</h2>
               <p class="promo-section__text lead">Welcome to Japan Airlines Virtual, Virtually Skyward! Our extensive real-operations allows you to feel as a real pilot with Japan Airlines. We began operations in 2007 and we have been growing since then. We operate from four hubs: Tokyo Narita (NRT/RJAA), Tokyo Haneda (HND/RJTT), Osaka Kansai (KIX/RJBB), and Osaka Itami (ITM/RJOO). We operate many different aircraft types going from small Dash 8's and CRJ-200's to large Boeing 787's and 777's. We simulate the operations of Japan Airlines, and its subsidiarie airlines. On top of all we allow flying all codeshare JAL flights. That gives you numerous possibilities of different flights with different aircraft types. We fly on the VATSIM and IVAO networks.</p>
               <a href="https://ivao.aero" target="_blank" class="btn btn--lg btn--color btn--icon">
-                <span>Get Started</span>
+                <span>Let's Fly</span>
                 <i class="ui-arrow-right"></i>
               </a>
             </div>
@@ -123,8 +123,8 @@
           <div class="row justify-content-center">
             <div class="col-lg-10">
               <div class="title-row">
-                <h2 class="section-title">Satisfied Customers</h2>
-                <p class="subtitle">Those who already tried it.</p>
+                <h2 class="section-title">Satisfied Pilots</h2>
+                <p class="subtitle">Those who already tried JAL-VA.</p>
               </div>
 
               <div id="owl-testimonials" class="owl-carousel owl-theme owl-carousel--arrows-outside">
@@ -132,11 +132,11 @@
                 <div class="testimonial clearfix">
                   <img src="img/testimonials/1.png" alt="" class="testimonial__img">
                   <div class="testimonial__info">
-                    <span class="testimonial__author">Joeby Ragpa</span>
-                    <span class="testimonial__company">DeoThemes</span>
+                    <span class="testimonial__author">Captain Leonard selvaraj</span>
+                    <span class="testimonial__company">iCrew systems</span>
                   </div>
                   <div class="testimonial__body">
-                    <p class="testimonial__text">“I have witnessed and admired the work for years. I highly recommend this work for anyone seeking to increase.”</p>
+                    <p class="testimonial__text">“I have witnessed and admired the work for years. I highly recommend this VA for anyone seeking to increase their flying experience.”</p>
                     <div class="testimonial__rating">
                       <i class="ui-star"></i>
                       <i class="ui-star"></i>
@@ -150,11 +150,11 @@
                 <div class="testimonial clearfix">
                   <img src="img/testimonials/2.png" alt="" class="testimonial__img">
                   <div class="testimonial__info">
-                    <span class="testimonial__author">Alexander Samokhin</span>
-                    <span class="testimonial__company">DeoThemes</span>
+                    <span class="testimonial__author">Captain Bharath</span>
+                    <span class="testimonial__company">iCrew systems</span>
                   </div>
                   <div class="testimonial__body">
-                    <p class="testimonial__text">“Every detail has been taken care these team are realy amazing and talented! I will work only to help your sales goals.”</p>
+                    <p class="testimonial__text">“Every detail has been taken care these team are realy amazing and talented!,and 'HAPPY BLUE SKIES'!! ”</p>
                     <div class="testimonial__rating">
                       <i class="ui-star"></i>
                       <i class="ui-star"></i>
@@ -165,41 +165,7 @@
                   </div>
                 </div>
 
-                <div class="testimonial clearfix">
-                  <img src="img/testimonials/1.png" alt="" class="testimonial__img">
-                  <div class="testimonial__info">
-                    <span class="testimonial__author">Joeby Ragpa</span>
-                    <span class="testimonial__company">DeoThemes</span>
-                  </div>
-                  <div class="testimonial__body">
-                    <p class="testimonial__text">“I have witnessed and admired the work for years. I highly recommend this work for anyone seeking to increase.”</p>
-                    <div class="testimonial__rating">
-                      <i class="ui-star"></i>
-                      <i class="ui-star"></i>
-                      <i class="ui-star"></i>
-                      <i class="ui-star"></i>
-                      <i class="ui-star"></i>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="testimonial clearfix">
-                  <img src="img/testimonials/2.png" alt="" class="testimonial__img">
-                  <div class="testimonial__info">
-                    <span class="testimonial__author">Alexander Samokhin</span>
-                    <span class="testimonial__company">DeoThemes</span>
-                  </div>
-                  <div class="testimonial__body">
-                    <p class="testimonial__text">“Every detail has been taken care these team are realy amazing and talented! I will work only to help your sales goals.”</p>
-                    <div class="testimonial__rating">
-                      <i class="ui-star"></i>
-                      <i class="ui-star"></i>
-                      <i class="ui-star"></i>
-                      <i class="ui-star"></i>
-                      <i class="ui-star"></i>
-                    </div>
-                  </div>
-                </div>
+                
 
               </div> <!-- end owl-carousel -->
             </div>
@@ -216,102 +182,7 @@
           </div>
           <div class="row card-row">
 
-            <div class="col-lg-4">
-              <article class="entry card box-shadow hover-up">
-                <div class="entry__img-holder card__img-holder">
-                  <a href="single-post.html">
-                    <img src="img/blog/post_1.jpg" class="entry__img" alt="">
-                  </a>
-                  <div class="entry__date">
-                    <span class="entry__date-day">27</span>
-                    <span class="entry__date-month">aug</span>
-                  </div>
-                  <div class="entry__body card__body">
-                    <h4 class="entry__title">
-                      <a href="single-post.html">Effective Marketing for Start-Ups</a>
-                    </h4>
-                    <ul class="entry__meta">
-                      <li class="entry__meta-category">
-                        <i class="ui-category"></i>
-                        <a href="#">Marketing</a>
-                      </li>
-                      <li class="entry__meta-comments">
-                        <i class="ui-comments"></i>
-                        <a href="#">3 Comments</a>
-                      </li>
-                    </ul>
-                    <div class="entry__excerpt">
-                      <p>Build a brand for your company using a specific color scheme and a professional logo designed with your business in mind.</p>
-                    </div>
-                  </div>
-                </div>
-              </article>
-            </div>
-
-            <div class="col-lg-4">
-              <article class="entry card box-shadow hover-up">
-                <div class="entry__img-holder card__img-holder">
-                  <a href="single-post.html">
-                    <img src="img/blog/post_2.jpg" class="entry__img" alt="">
-                  </a>
-                  <div class="entry__date">
-                    <span class="entry__date-day">23</span>
-                    <span class="entry__date-month">aug</span>
-                  </div>
-                  <div class="entry__body card__body">
-                    <h4 class="entry__title">
-                      <a href="single-post.html">Offer an Outrageous or Daily Deal</a>
-                    </h4>
-                    <ul class="entry__meta">
-                      <li class="entry__meta-category">
-                        <i class="ui-category"></i>
-                        <a href="#">Marketing</a>
-                      </li>
-                      <li class="entry__meta-comments">
-                        <i class="ui-comments"></i>
-                        <a href="#">3 Comments</a>
-                      </li>
-                    </ul>
-                    <div class="entry__excerpt">
-                      <p>Build a brand for your company using a specific color scheme and a professional logo designed with your business in mind.</p>
-                    </div>
-                  </div>
-                </div>
-              </article>
-            </div>
-
-            <div class="col-lg-4">
-              <article class="entry card box-shadow hover-up">
-                <div class="entry__img-holder card__img-holder">
-                  <a href="single-post.html">
-                    <img src="img/blog/post_3.jpg" class="entry__img" alt="">
-                  </a>
-                  <div class="entry__date">
-                    <span class="entry__date-day">21</span>
-                    <span class="entry__date-month">aug</span>
-                  </div>
-                  <div class="entry__body card__body">
-                    <h4 class="entry__title">
-                      <a href="single-post.html">Investigate your Competition</a>
-                    </h4>
-                    <ul class="entry__meta">
-                      <li class="entry__meta-category">
-                        <i class="ui-category"></i>
-                        <a href="#">Marketing</a>
-                      </li>
-                      <li class="entry__meta-comments">
-                        <i class="ui-comments"></i>
-                        <a href="#">3 Comments</a>
-                      </li>
-                    </ul>
-                    <div class="entry__excerpt">
-                      <p>Build a brand for your company using a specific color scheme and a professional logo designed with your business in mind.</p>
-                    </div>
-                  </div>
-                </div>
-              </article>
-            </div>
-
+            
           </div>
         </div>
       </section> <!-- end from blog -->
@@ -320,27 +191,22 @@
       <section class="section-wrap section-wrap--pb-large bg-gradient" style="background-image: url(img/partners/map.png);">
         <div class="container">
           <div class="title-row title-row--boxed text-center">
-            <h2 class="section-title">Join thousands of independent entrepreneurs who tried Margin</h2>
+            <h2 class="section-title">Join thousands of Pilots  who tried JAL virtual airline</h2>
             <p class="subtitle">An idea that takes the parts of a structure and turns whole system.</p>
           </div>
           <div class="row justify-content-center text-center">
             <div class="col-lg-10">
               <div class="row pb-48">
-                <div class="col-md col-sm-6">
-                  <img src="img/partners/1.png" alt="">
+                <div class="col-md col-sm-3">
+                  <img src="img/xplane 11 logo.png" alt="">
                 </div>
-                <div class="col-md col-sm-6">
-                  <img src="img/partners/2.png" alt="">
+                <div class="col-md col-sm-3">
+                  <img src="img/p3d.jpg" alt="">
                 </div>
-                <div class="col-md col-sm-6">
-                  <img src="img/partners/3.png" alt="">
+                <div class="col-md col-sm-3">
+                  <img src="img/microsoft flight simulator.jpg" alt="">
                 </div>
-                <div class="col-md col-sm-6">
-                  <img src="img/partners/4.png" alt="">
-                </div>
-                <div class="col-md col-sm-6">
-                  <img src="img/partners/5.png" alt="">
-                </div>
+                
               </div>
             </div>
           </div>
@@ -354,10 +220,10 @@
             <div class="call-to-action box-shadow-large text-center">
               <div class="call-to-action__container">
                 <h3 class="call-to-action__title">
-                  Take your business to the next level
+                  Take your flying to the next level
                 </h3>
                 <a href="#" class="btn btn--lg btn--color">
-                  <span>Let’s Work Together</span>
+                  <span>Let’s Fly</span>
                 </a>
               </div>
             </div>
