@@ -58,17 +58,19 @@
           <div class="row">
             <div class="col-lg-6">
               <div class="feature box-shadow hover-up hover-line">
-                <svg class="feature__icon"><use xlink:href="https://ivao.aero/assets//img/logo1-def.png"></use></svg>
-                <h4 class="feature__title">IVAO</h4>
-                <p class="feature__text">The International Virtual Aviation Organisation, IVAO for short, was founded in 1998 to provide an online platform for flight simulation enthusiasts to enjoy their ...</p>
+                <h4 class="feature__title">IVAO<a href="https://ivao.aero/" target="_blank"></h4>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/IVAO_Logo.png/768px-IVAO_Logo.png" width="200" height="100">
+                <p class="feature__text">The International Virtual Aviation Organisation, IVAO for short, was founded in 1998 to provide an online platform for flight simulation enthusiasts to enjoy their ...</p></a>
               </div>
             </div>
             <div class="col-lg-6">
               <div class="feature box-shadow hover-up hover-line">
-                <svg class="feature__icon"><use xlink:href="img/icons/orion-svg-sprite.svg#edit-document-1"></use></svg>
-                <h4 class="feature__title">VATSIM</h4>
+                <h4 class="feature__title">VATSIM<a href="https://www.vatsim.net/" target="_blank"> </h4>
+                <img src="https://www.avsim.com/files/forum/monthly_09_2018/vatsim-official-2010_0480_r.png.e232403e2c49f3473ce4842081fa0df9.png" height="200">
+               
+                <br><br><br>
                 <p class="feature__text">VATSIM is the Virtual Air Traffic Simulation network, connecting people from around the world flying online or acting as virtual Air Traffic Controllers.</p>
-              </div>
+              </div></a>
             </div>
            
             </div>
