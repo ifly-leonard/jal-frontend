@@ -34,36 +34,13 @@
                 <img src="http://2.bp.blogspot.com/-Mabwezf-WM4/Td9fcPkw6lI/AAAAAAAABdQ/av4FW_fFGUI/s1600/Screen%2Bshot%2B2011-05-27%2Bat%2B1.21.56%2BAM.png">
                 <h1 class="hero__title hero__title--boxed">We are Japan's most advanced Virtual Airline.</h1>
                 <h2 class="hero__subtitle">
-                  Focus on engaging, reusable content that decrease the cost per leads while helps you to increase profits margin.</h2>
+                  Focus on engaging, creating more Pilots.</h2>
 
               </div>
             </div>
           </div>
 
-          <div class="row justify-content-center">
-            <div class="col-lg-10">
-              <!-- Optin Form -->
-              <div class="optin">
-                <h3 class="optin__title">Get the free checklist, 7 ways to improve your business</h3>
-                <form class="optin__form">
-                  <div class="optin__form-group form-group">
-                    <input type="text" class="form-input optin__input" id="optin-name" required>
-                    <label for="optin-name" class="optin__label">Your name</label>
-                    <span class="input-underline"></span>
-                  </div>
-                  <div class="optin__form-group form-group">
-                    <input type="email" class="form-input optin__input" id="optin-email" required>
-                    <label for="optin-email" class="optin__label">Your e-mail address</label>
-                    <span class="input-underline"></span>
-                  </div>
-
-                  <button class="optin__btn btn btn--md btn--color btn--button">Download Free</button>
-                </form>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section> <!-- end hero -->
+          
 
       <!-- Service Boxes -->
       <section class="section-wrap pb-72 pb-lg-40">
@@ -72,32 +49,28 @@
             <div class="col-lg-7">
               <div class="title-row">
                 <h2 class="section-title text-center">
-                  Do you want to <span class="highlight">generate more traffic</span> to your website? We know the solution.
+                  <br><br>                                                      
+                  Do you want to <span class="highlight">generate more traffic</span> to your flying? We know the solution.
                 </h2>
               </div>
             </div>
           </div>
           <div class="row">
-            <div class="col-lg-4">
+            <div class="col-lg-6">
               <div class="feature box-shadow hover-up hover-line">
-                <svg class="feature__icon"><use xlink:href="img/icons/orion-svg-sprite.svg#medical-research-1"></use></svg>
-                <h4 class="feature__title">Analytics and Research</h4>
-                <p class="feature__text">We also provide tangible results and measurable long-term value business.</p>
+                <svg class="feature__icon"><use xlink:href="https://ivao.aero/assets//img/logo1-def.png"></use></svg>
+                <h4 class="feature__title">IVAO</h4>
+                <p class="feature__text">The International Virtual Aviation Organisation, IVAO for short, was founded in 1998 to provide an online platform for flight simulation enthusiasts to enjoy their ...</p>
               </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-6">
               <div class="feature box-shadow hover-up hover-line">
                 <svg class="feature__icon"><use xlink:href="img/icons/orion-svg-sprite.svg#edit-document-1"></use></svg>
-                <h4 class="feature__title">Copywriting</h4>
-                <p class="feature__text">We also provide tangible results and measurable long-term value business.</p>
+                <h4 class="feature__title">VATSIM</h4>
+                <p class="feature__text">VATSIM is the Virtual Air Traffic Simulation network, connecting people from around the world flying online or acting as virtual Air Traffic Controllers.</p>
               </div>
             </div>
-            <div class="col-lg-4">
-              <div class="feature box-shadow hover-up hover-line">
-                <svg class="feature__icon"><use xlink:href="img/icons/orion-svg-sprite.svg#currency-1"></use></svg>
-                <h4 class="feature__title">Sales growth</h4>
-                <p class="feature__text">We also provide tangible results and measurable long-term value business.</p>
-              </div>
+           
             </div>
           </div>
         </div>
