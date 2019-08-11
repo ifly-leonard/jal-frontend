@@ -29,12 +29,21 @@
                   <a href="index.html">Home</a>
               <ul>
                 <li><a href="#">About</a></li>
+<<<<<<< HEAD
 
                 <li><a href="#">Contact</a></li>
               </ul>
             </div>
           </div>
 
+=======
+                
+                <li><a href="#">Contact</a></li>
+              </ul>
+            </div>
+          </div>
+
+>>>>>>> master
           <div class="col-lg-4 col-md-8">
             <div class="widget widget-address">
               <h5 class="widget-title">Company</h5>
@@ -59,7 +68,11 @@
     <div class="footer__bottom top-divider">
       <div class="container text-center">
         <span class="copyright">
+<<<<<<< HEAD
           JAL Virtual Airline &copy; 2017 - <?php echo date("Y"); ?> | Powered by iCrew&trade; </a>
+=======
+          &copy; 2019 JAL Vitual, Made by icrew systems&#8482</a>
+>>>>>>> master
         </span>
       </div>
     </div> <!-- end footer bottom -->
