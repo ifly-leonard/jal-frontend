@@ -130,7 +130,7 @@
               <div id="owl-testimonials" class="owl-carousel owl-theme owl-carousel--arrows-outside">
 
                 <div class="testimonial clearfix">
-                  <img src="img/testimonials/1.png" alt="" class="testimonial__img">
+                  <img src="img/captain leo.jpg" alt="" class="testimonial__img">
                   <div class="testimonial__info">
                     <span class="testimonial__author">Captain Leonard selvaraj</span>
                     <span class="testimonial__company">iCrew systems</span>
@@ -148,13 +148,14 @@
                 </div>
 
                 <div class="testimonial clearfix">
-                  <img src="img/testimonials/2.png" alt="" class="testimonial__img">
+                  <img src="img/IMG-20190503-WA0004.jpg" alt="" class="testimonial__img">
                   <div class="testimonial__info">
                     <span class="testimonial__author">Captain Bharath</span>
                     <span class="testimonial__company">iCrew systems</span>
                   </div>
                   <div class="testimonial__body">
                     <p class="testimonial__text">“Every detail has been taken care these team are realy amazing and talented!,and 'HAPPY BLUE SKIES'!! ”</p>
+                    <br>
                     <div class="testimonial__rating">
                       <i class="ui-star"></i>
                       <i class="ui-star"></i>
