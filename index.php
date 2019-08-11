@@ -136,7 +136,7 @@
                     <span class="testimonial__company">iCrew systems</span>
                   </div>
                   <div class="testimonial__body">
-                    <p class="testimonial__text">“I have witnessed and admired the work for years. I highly recommend this VA for anyone seeking to increase their flying experience.”</p>
+                    <p class="testimonial__text">“ I highly recommend this VA for anyone seeking to increase their flying experience.”</p>
                     <div class="testimonial__rating">
                       <i class="ui-star"></i>
                       <i class="ui-star"></i>
@@ -154,8 +154,8 @@
                     <span class="testimonial__company">iCrew systems</span>
                   </div>
                   <div class="testimonial__body">
-                    <p class="testimonial__text">“Every detail has been taken care these team are realy amazing and talented!,and 'HAPPY BLUE SKIES'!! ”</p>
-                    <br>
+                    <p class="testimonial__text">“Every detail has been taken care these team are realy amazing and talented!, and 'HAPPY BLUE SKIES'!! ”</p>
+                    <br>    
                     <div class="testimonial__rating">
                       <i class="ui-star"></i>
                       <i class="ui-star"></i>
@@ -180,13 +180,14 @@
           <div class="title-row title-row--boxed text-center">
             <h2 class="section-title">Latest News</h2>
             <h4>At the moment, JAL Virtual operates an all Boeing fleet.</h4>
-            <ul>
+            
+            <h5><ul>
               <li>Boeing 737-800 Operated By JAL Express</li>
             <li>Boeing 747-200</li>
           <li>Boeing 777-200ER</li>
         <li>Boeing 787-9</li>
       
-          </ul>
+          </ul></h5>
         </div>
           <div class="row card-row">
 
