@@ -178,8 +178,15 @@
         <div class="container">
           <div class="title-row title-row--boxed text-center">
             <h2 class="section-title">Latest News</h2>
-            <p class="subtitle">Here are the best features that makes margin the most powerful, fast and user-friendly platform.</p>
-          </div>
+            <h4>At the moment, JAL Virtual operates an all Boeing fleet.</h4>
+            <ul>
+              <li>Boeing 737-800 Operated By JAL Express</li>
+            <li>Boeing 747-200</li>
+          <li>Boeing 777-200ER</li>
+        <li>Boeing 787-9</li>
+      
+          </ul>
+        </div>
           <div class="row card-row">
 
             
