@@ -44,7 +44,7 @@
 
             <div class="nav__header">
               <!-- Logo -->
-              <a href="index.html" class="logo-container flex-child">
+              <a href="index.php" class="logo-container flex-child">
                 <img  src="http://jalvirtual.com/en/lib/skins/jal2014/images/logo.png"  alt="logo">
               </a>
 
@@ -61,7 +61,7 @@
             <nav id="navbar-collapse" class="nav__wrap collapse navbar-collapse">
               <ul class="nav__menu">
                 <li>
-                  <a href="index.html">Home</a>
+                  <a href="index.php">Home</a>
                 </li>
                 <li class="nav__menu">
                   <a href="#">About</a>
