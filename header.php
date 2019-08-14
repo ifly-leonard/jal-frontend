@@ -71,7 +71,11 @@
                   <li><a href="contact.html">Contact</a></li>
                   </ul>
                 </li>
-                
+                <ul class="nav__menu">
+                <li class="active">
+                  <li><a href="staff.php">Staff</a></li>
+                  </ul>
+                </li>
               </ul> <!-- end menu -->
             </nav> <!-- end nav-wrap -->
 
